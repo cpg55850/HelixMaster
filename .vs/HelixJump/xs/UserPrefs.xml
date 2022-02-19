@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{F2A0501D-E427-D9F7-20E3-CE7643F1072D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BallScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/RotationLevel.cs" Line="20" Column="18" />
+      <File FileName="Assets/Scripts/CameraFollow.cs" Line="19" Column="6" />
+      <File FileName="Assets/Scripts/BallScript.cs" Line="21" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9ef6ce75-1f71-43e6-ba41-03ad25d09a13" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
